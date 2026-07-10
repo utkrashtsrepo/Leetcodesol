@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0009-palindrome-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
