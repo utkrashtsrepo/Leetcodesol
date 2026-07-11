@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
