@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
