@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
