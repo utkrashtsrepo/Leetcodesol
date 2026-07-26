@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3536-maximum-product-of-two-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3536-maximum-product-of-two-digits) |
