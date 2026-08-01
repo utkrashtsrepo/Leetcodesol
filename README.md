@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
