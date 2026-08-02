@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0300-longest-increasing-subsequence) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
