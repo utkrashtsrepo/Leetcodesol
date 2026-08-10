@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1406-stone-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
