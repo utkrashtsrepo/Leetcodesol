@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Memoization
@@ -242,12 +246,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
