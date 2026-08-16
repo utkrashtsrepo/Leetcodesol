@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0877-stone-game) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
