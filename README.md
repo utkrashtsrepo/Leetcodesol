@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
