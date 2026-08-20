@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1406-stone-game-iii) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
 | ------- |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
