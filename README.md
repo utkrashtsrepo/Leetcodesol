@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0048-rotate-image) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
