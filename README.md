@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1140-stone-game-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2091-removing-minimum-and-maximum-from-array) |
