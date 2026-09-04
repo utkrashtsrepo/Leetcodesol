@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0860-lemonade-change) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
