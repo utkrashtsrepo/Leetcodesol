@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1406-stone-game-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
