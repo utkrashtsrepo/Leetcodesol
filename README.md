@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0525-contiguous-array) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
