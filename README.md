@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
