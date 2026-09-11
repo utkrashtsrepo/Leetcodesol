@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0743-network-delay-time) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0300-longest-increasing-subsequence) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
