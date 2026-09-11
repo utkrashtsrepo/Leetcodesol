@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0300-longest-increasing-subsequence) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Shortest Path
 |  |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0595-big-countries) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkrashtsrepo/Leetcodesol/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
